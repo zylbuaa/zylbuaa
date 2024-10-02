@@ -1,5 +1,5 @@
 # 👋 About Me  ([CV](https://zylbuaa.github.io/images/CV-YilanZhang.pdf))
-I am currently a second-year M.S. student at Beihang University (BUAA), supervised by Prof. [Fengying Xie](https://www.sa.buaa.edu.cn/info/1153/6827.htm). Previously, I received my bachelor’s degree from Beihang University in June 2021. My research interests lie in medical image analysis, multi-modality, and image synthesis.
+I am currently a first-year Ph.D student (2024 Spring) in CS of King Abdullah University of Science and Technology（KAUST）supervised by Prof. [Xin Gao](https://scholar.google.com/citations?user=wqdK8ugAAAAJ&hl=zh-CN). Previously, I received my master's degree from Beihang University (BUAA) in Jan. 2024, supervised by Prof. [Fengying Xie](https://www.sa.buaa.edu.cn/info/1153/6827.htm), and my bachelor’s degree in June 2021. My research interests lie in medical image analysis, multi-modality, and image synthesis.
 
 ### 📎 Homepages
 - Personal Pages: https://zylbuaa.github.io
@@ -15,3 +15,5 @@ I am currently a second-year M.S. student at Beihang University (BUAA), supervis
 - *2022.12*: One paper is accepted by ***<font color="red">CBM</font> (IF=7.7)***!
 - *2022.05*: Achieve the 5th place in ***[Track I: Classification Task Defense](https://artofrobust.github.io/)*** and the 6th place in ***[Track II: Open Set Defense](https://artofrobust.github.io/)***, CVPR 2022 Robust Models towards Open-world Classification 🎉🎉!
 - *2022.04*: One paper is accepted by ***<font color="red">MedIA</font> (IF=10.9)***!
+
+### 🔥My new GitHub account is available at [https://github.com/zylvemvet], and future research updates will be posted there. Please contact me using my new email: yilan.zhang@kaust.edu.sa.
