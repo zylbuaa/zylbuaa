@@ -2,7 +2,7 @@
 I am currently a first-year Ph.D student (2024 Spring) in CS of King Abdullah University of Science and Technology（KAUST）supervised by Prof. [Xin Gao](https://scholar.google.com/citations?user=wqdK8ugAAAAJ&hl=zh-CN). Previously, I received my master's degree from Beihang University (BUAA) in Jan. 2024, supervised by Prof. [Fengying Xie](https://www.sa.buaa.edu.cn/info/1153/6827.htm), and my bachelor’s degree in June 2021. My research interests lie in medical image analysis, multi-modality, and image synthesis.
 
 ### 📎 Homepages
-- Personal Pages: https://zylbuaa.github.io
+- Personal Pages: https://zylvemvet.github.io
 - Google Scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=wZ4M4ecAAAAJ
 - DBLP: https://dblp.org/pid/207/6668.html
 
